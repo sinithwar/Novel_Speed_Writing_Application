@@ -56,8 +56,7 @@
     <string name="the_idea_conflict">Conflict</string>
     <string name="the_idea_conflict_text">This is the core of your story and will determine the interactions between all
         of your characters. This is really
-        simple and all it means is what the antagonist does that the protagonist must be against.
-        I will be using this one for every segment afterwards.
+        simple and all it means is what the antagonist does that the protagonist must be against. \n\nI will be using this one for every segment afterwards.
     </string>
     <string name="the_idea_final_text">The Knight [Protagonist] must fight the Demon[Antagonist] to save[Conflict] the
         world[Setting].
