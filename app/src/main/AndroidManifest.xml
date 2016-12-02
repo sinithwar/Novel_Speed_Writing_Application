@@ -15,22 +15,35 @@
                 <category android:name="android.intent.category.LAUNCHER"/>
             </intent-filter>
         </activity>
-        <activity android:name=".AboutActivity">
+        <activity
+                android:name=".AboutActivity"
+                android:parentActivityName=".LandingPage"
+        >
         </activity>
         <activity
-                android:name=".IdeaActivity">
+                android:name=".IdeaActivity"
+                android:parentActivityName=".LandingPage"
+        >
         </activity>
         <activity
-                android:name=".DescriptionActivity">
+                android:name=".DescriptionActivity"
+                android:parentActivityName=".LandingPage"
+        >
         </activity>
         <activity
-                android:name=".PageSummaryActivity">
+                android:name=".PageSummaryActivity"
+                android:parentActivityName=".LandingPage"
+        >
         </activity>
         <activity
-                android:name=".ChapterSummariesActivity">
+                android:name=".ChapterSummariesActivity"
+                android:parentActivityName=".LandingPage"
+        >
         </activity>
         <activity
-                android:name=".WordCountActivity">
+                android:name=".WordCountActivity"
+                android:parentActivityName=".LandingPage"
+        >
         </activity>
     </application>
 
