@@ -8,41 +8,38 @@
             android:label="@string/app_name"
             android:supportsRtl="true"
             android:theme="@style/AppTheme">
-        <activity android:name=".LandingPage">
+        <activity android:name=".LandingPage"
+                  android:theme="@style/AppTheme.NoActionBar">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>
 
                 <category android:name="android.intent.category.LAUNCHER"/>
             </intent-filter>
         </activity>
-        <activity
-                android:name=".AboutActivity"
-                android:parentActivityName=".LandingPage"
-        >
+        <activity android:name=".AboutActivity"
+                  android:theme="@style/AppTheme.NoActionBar">
         </activity>
         <activity
                 android:name=".IdeaActivity"
-                android:parentActivityName=".LandingPage"
-        >
+                android:theme="@style/AppTheme.NoActionBar">
         </activity>
         <activity
                 android:name=".DescriptionActivity"
-                android:parentActivityName=".LandingPage"
-        >
+                android:theme="@style/AppTheme.NoActionBar">
         </activity>
         <activity
                 android:name=".PageSummaryActivity"
-                android:parentActivityName=".LandingPage"
+                android:theme="@style/AppTheme.NoActionBar"
         >
         </activity>
         <activity
                 android:name=".ChapterSummariesActivity"
-                android:parentActivityName=".LandingPage"
+                android:theme="@style/AppTheme.NoActionBar"
         >
         </activity>
         <activity
                 android:name=".WordCountActivity"
-                android:parentActivityName=".LandingPage"
+                android:theme="@style/AppTheme.NoActionBar"
         >
         </activity>
     </application>

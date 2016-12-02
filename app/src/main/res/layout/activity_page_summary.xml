@@ -7,14 +7,28 @@
         android:orientation="vertical"
         android:background="@drawable/paper"
         tools:context="tommymertell.novelspeedwriting.PageSummaryActivity">
-    <TextView
-            android:text="@string/page_summary"
-            android:background="@drawable/book"
-            android:textColor="@android:color/white"
+    <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="50dp"
-            android:gravity="center"
-            android:textSize="30sp"/>
+            android:background="@drawable/book"
+            android:orientation="horizontal"
+    >
+        <ImageView
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_gravity="center"
+                android:id="@+id/about_back"
+                android:src="@drawable/back"
+        />
+        <TextView
+                android:text="@string/page_summary"
+                android:textSize="28sp"
+                android:textColor="@android:color/white"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:gravity="center"
+        />
+    </LinearLayout>
     <ScrollView
             android:layout_width="match_parent"
             android:layout_height="match_parent"
