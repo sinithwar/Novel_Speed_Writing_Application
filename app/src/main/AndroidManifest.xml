@@ -31,6 +31,8 @@
         </activity>
         <activity android:name=".ChapterSummariesActivity">
         </activity>
+        <activity android:name=".WordCountActivity">
+        </activity>
     </application>
 
 </manifest>

@@ -6,9 +6,6 @@
         android:layout_width="fill_parent"
         android:layout_height="fill_parent"
         android:orientation="vertical"
-        android:paddingTop="@dimen/activity_vertical_margin"
-        android:background="@drawable/book_shelf_2"
-        android:paddingBottom="@dimen/activity_vertical_margin"
 >
     <TextView
             android:text="@string/app_title"
@@ -17,57 +14,71 @@
             android:textSize="28sp"
             android:layout_width="match_parent"
             android:layout_height="0dp"
-            android:layout_weight="2"
-            android:gravity="center"
-    />
-    <TextView
-            android:text="@string/about_title"
-            android:background="@drawable/book"
-            android:textColor="@android:color/white"
-            android:id="@+id/about_title"
-            android:layout_width="match_parent"
-            android:layout_height="0dp"
             android:layout_weight="1"
             android:gravity="center"
     />
-    <TextView
-            android:text="@string/the_idea"
-            android:background="@drawable/book"
-            android:textColor="@android:color/white"
-            android:id="@+id/the_idea"
+    <ScrollView
             android:layout_width="match_parent"
             android:layout_height="0dp"
-            android:layout_weight="1"
-            android:gravity="center"
-    />
-    <TextView
-            android:text="@string/description_page"
-            android:background="@drawable/book"
-            android:textColor="@android:color/white"
-            android:id="@+id/description_page"
-            android:layout_width="match_parent"
-            android:layout_height="0dp"
-            android:layout_weight="1"
-            android:gravity="center"
-    />
-    <TextView
-            android:text="@string/page_summary"
-            android:background="@drawable/book"
-            android:textColor="@android:color/white"
-            android:id="@+id/page_summary"
-            android:layout_width="match_parent"
-            android:layout_height="0dp"
-            android:layout_weight="1"
-            android:gravity="center"
-    />
-    <TextView
-            android:text="@string/chapter_summaries"
-            android:background="@drawable/book"
-            android:textColor="@android:color/white"
-            android:id="@+id/chapter_summaries"
-            android:layout_width="match_parent"
-            android:layout_height="0dp"
-            android:layout_weight="1"
-            android:gravity="center"
-    />
+            android:layout_weight="3"
+    >
+        <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical"
+
+        >
+            <TextView
+                    android:text="@string/about_title"
+                    android:background="@drawable/book"
+                    android:textColor="@android:color/white"
+                    android:id="@+id/about_title"
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:textSize="20sp"/>
+            <TextView
+                    android:text="@string/the_idea"
+                    android:background="@drawable/book"
+                    android:textColor="@android:color/white"
+                    android:id="@+id/the_idea"
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:textSize="20sp"/>
+            <TextView
+                    android:text="@string/description_page"
+                    android:background="@drawable/book"
+                    android:textColor="@android:color/white"
+                    android:id="@+id/description_page"
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:textSize="20sp"/>
+            <TextView
+                    android:text="@string/page_summary"
+                    android:background="@drawable/book"
+                    android:textColor="@android:color/white"
+                    android:id="@+id/page_summary"
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:textSize="20sp"/>
+            <TextView
+                    android:text="@string/chapter_summaries"
+                    android:background="@drawable/book"
+                    android:textColor="@android:color/white"
+                    android:id="@+id/chapter_summaries"
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:textSize="20sp"/>
+        </LinearLayout>
+
+    </ScrollView>
 </LinearLayout>
