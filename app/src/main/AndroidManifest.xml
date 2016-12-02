@@ -15,6 +15,22 @@
                 <category android:name="android.intent.category.LAUNCHER"/>
             </intent-filter>
         </activity>
+        <activity android:name=".AboutActivity">
+        </activity>
+        <activity
+                android:name=".IdeaActivity"
+                android:label="@string/title_activity_idea"
+                android:theme="@style/AppTheme.NoActionBar">
+        </activity>
+        <activity
+                android:name=".DescriptionActivity"
+                android:label="@string/title_activity_description"
+                android:theme="@style/AppTheme.NoActionBar">
+        </activity>
+        <activity android:name=".PageSummaryActivity">
+        </activity>
+        <activity android:name=".ChapterSummariesActivity">
+        </activity>
     </application>
 
 </manifest>

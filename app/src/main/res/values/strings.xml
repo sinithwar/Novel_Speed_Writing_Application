@@ -3,142 +3,330 @@
 
     <!-- Credits -->
     <string name="app_title">Novel Speed Writing \n Application</string>
-    <string name="byline">Tommy Mertell</string>
 
     <!-- About Page Text -->
     <string name="about_title">About Page</string>
-    <string name="about_page">This application is an extension of a course that I teach on Udemy. While I am attempting to make my way into the developing world, I have been a professional Ghostwriter for over a decade. I have no college education and I have proven time and again that college is something I simply don\'t need. In order to survive in the Ghostwriting world you not only need to be able to write, but you need to be able to write fast with no chance of being hung up on such things as writer\'s block. As such, I have developed a method that allows me to turn a sentence into a book, article, and even screenplay by following very simple, logical steps. This application is not to ensure quality nor does it ensure that it will make you more creative. The only thing this application does is show how I take one sentence and turn it into a book. It is up to you to determine whether you will use this or not, how you will use it if you do, and to what effect this application will have on your writing experience.</string>
+    <string name="about_page">An Application Made By: Tommy Mertell \n This application is an extension of a course that
+        I teach on Udemy. While I am attempting to make my way into the developing world, I have been a professional
+        Ghostwriter for over a decade. I have no college education and I have proven time and again that college is
+        something I simply don\'t need. In order to survive in the Ghostwriting world you not only need to be able to
+        write, but you need to be able to write fast with no chance of being hung up on such things as writer\'s block.
+        As such, I have developed a method that allows me to turn a sentence into a book, article, and even screenplay
+        by following very simple, logical steps. This application is not to ensure quality nor does it ensure that it
+        will make you more creative. The only thing this application does is show how I take one sentence and turn it
+        into a book. It is up to you to determine whether you will use this or not, how you will use it if you do, and
+        to what effect this application will have on your writing experience.
+    </string>
 
     <!-- Small Move Page Text -->
     <string name="start_small_move_big_title">Start Small Move Big</string>
-    <string name="start_small_move_big">This is the most important part for any author who just started out on their own. Don\'t go big and don\'t waste your time trying to go big. You don\'t write a 90,000 word book out of nowhere and you shouldn\'t try. I did and it took me 7 years to complete my first novel. Then I wrote a second novel of the same time and it only took me 6 months. The difference was that I had the experience from the first novel. You build up from your first book. Sure, it is an achievement to get your first one in but you don\'t win a race by trying to run the biggest marathon for your first run. My suggestion is that you start small, you may even like writing small because you get more novelettes out. Small is in between 3,000 and 10,000 words. Once you\'ve made a couple at this size, you should then move on to bigger books at a slow pace so that you can perfect your writing before you write large scale books.</string>
+    <string name="start_small_move_big">This is the most important part for any author who just started out on their
+        own. Don\'t go big and don\'t waste your time trying to go big. You don\'t write a 90,000 word book out of
+        nowhere and you shouldn\'t try. I did and it took me 7 years to complete my first novel. Then I wrote a second
+        novel of the same time and it only took me 6 months. The difference was that I had the experience from the first
+        novel. You build up from your first book. Sure, it is an achievement to get your first one in but you don\'t win
+        a race by trying to run the biggest marathon for your first run. My suggestion is that you start small, you may
+        even like writing small because you get more novelettes out. Small is in between 3,000 and 10,000 words. Once
+        you\'ve made a couple at this size, you should then move on to bigger books at a slow pace so that you can
+        perfect your writing before you write large scale books.
+    </string>
 
     <!-- The Idea Page Text -->
     <string name="the_idea">The Idea</string>
-    <string name="the_idea_intro">This is perhaps the easiest part because you just have to think of anything. However, some of us still have trouble with this when they first start out because of several factors. So, let\'s construct an IDEA.</string>
+    <string name="the_idea_intro">This is perhaps the easiest part because you just have to think of anything. However,
+        some of us still have trouble with this when they first start out because of several factors. So, let\'s
+        construct an IDEA.
+    </string>
     <string name="the_idea_bold_text">An idea for a book is made up of 4 parts.</string>
     <string name="the_idea_protagonist">Protagonist</string>
-    <string name="the_idea_protagonist_text">This is your hero or the person you will be following throughout your book. You can think one up or go to a random
-    generator for names and work from there.</string>
+    <string name="the_idea_protagonist_text">This is your hero or the person you will be following throughout your book.
+        You can think one up or go to a random
+        generator for names and work from there.
+    </string>
     <string name="the_idea_antagonist">Antagonist</string>
-    <string name="the_idea_antagonist_text">The antagonist is whoever or whatever the protagonist has to go against. They try to do the opposite of whatever the
-    protagonist stands for.</string>
+    <string name="the_idea_antagonist_text">The antagonist is whoever or whatever the protagonist has to go against.
+        They try to do the opposite of whatever the
+        protagonist stands for.
+    </string>
     <string name="the_idea_settting">Setting</string>
-    <string name="the_idea_settting_text">The setting is where it takes place. If you want it in a separate world, you are gonna have to explain this to the
-    reader. If you have it in this world, you need to tell them where and what area it will encompass.</string>
+    <string name="the_idea_settting_text">The setting is where it takes place. If you want it in a separate world, you
+        are gonna have to explain this to the
+        reader. If you have it in this world, you need to tell them where and what area it will encompass.
+    </string>
     <string name="the_idea_conflict">Conflict</string>
-    <string name="the_idea_conflict_text">This is the core of your story and will determine the interactions between all of your characters. This is really
-    simple and all it means is what the antagonist does that the protagonist must be against.
-    I will be using this one for every segment afterwards.</string>
-    <string name="the_idea_final_text">The Knight [Protagonist] must fight the Demon[Antagonist] to save[Conflict] the world[Setting].</string>
+    <string name="the_idea_conflict_text">This is the core of your story and will determine the interactions between all
+        of your characters. This is really
+        simple and all it means is what the antagonist does that the protagonist must be against.
+        I will be using this one for every segment afterwards.
+    </string>
+    <string name="the_idea_final_text">The Knight [Protagonist] must fight the Demon[Antagonist] to save[Conflict] the
+        world[Setting].
+    </string>
 
     <!-- The Description Page Text -->
     <string name="description_page">Description Page</string>
-    <string name="description_page_intro">In this section, we will build off the previous section The Idea. In order to make a description, you need an idea to start with and this is where the logical progression takes its first steps. You have six different questions that will aid you in creating content.</string>
+    <string name="description_page_intro">In this section, we will build off the previous section The Idea. In order to
+        make a description, you need an idea to start with and this is where the logical progression takes its first
+        steps. You have six different questions that will aid you in creating content.
+    </string>
     <string name="description_page_questions">Who? What? Where? Why? How? When?</string>
-    <string name="description_page_text">That may sound a little unrealistic, at first, but this method is how I turned an idea into a story. There are a few key points to be made here about when to use these questions. You are exploring your own book instead of creating your own book. This is similar to how an artist will see a vision on their canvas before they ever put paint brush to paint. You are asking these questions to learn about your own story while also writing your story in the same process.
-    The what determines the subject of what will take place inside of that question. The where will determine the setting of the past, present, and future. The why will determine how that subject takes place. The how will also determine how that subject takes place. The when will determine the plot of the past, present, and future. The less common who will determine characters and their names. Now that those key points have been laid out, we can use them on the previous idea.
-    The Knight must fight the Demon to save the world. \n\n
+    <string name="description_page_text">That may sound a little unrealistic, at first, but this method is how I turned
+        an idea into a story. There are a few key points to be made here about when to use these questions. You are
+        exploring your own book instead of creating your own book. This is similar to how an artist will see a vision on
+        their canvas before they ever put paint brush to paint. You are asking these questions to learn about your own
+        story while also writing your story in the same process.
+        The what determines the subject of what will take place inside of that question. The where will determine the
+        setting of the past, present, and future. The why will determine how that subject takes place. The how will also
+        determine how that subject takes place. The when will determine the plot of the past, present, and future. The
+        less common who will determine characters and their names. Now that those key points have been laid out, we can
+        use them on the previous idea.
+        The Knight must fight the Demon to save the world. \n\n
 
-    • Who is the knight? \n
-    • What is the knight like? \n
-    • Where does the knight live? \n
-    • Why is he or she a knight? \n
-    • How did he or she become a knight? \n
-    • When did the Knight start their struggle? \n
-    • Why must it be the knight who fights? \n
-    • What is the knight\'s fighting style? \n
-    • Where will the fight take place? \n
-    • Why must they fight? \n
-    • How will they fight? \n
-    • Who is the demon? \n
-    • Why is he or she a demon? \n
-    • Why will fighting the demon save the world? \n\n
+        • Who is the knight? \n
+        • What is the knight like? \n
+        • Where does the knight live? \n
+        • Why is he or she a knight? \n
+        • How did he or she become a knight? \n
+        • When did the Knight start their struggle? \n
+        • Why must it be the knight who fights? \n
+        • What is the knight\'s fighting style? \n
+        • Where will the fight take place? \n
+        • Why must they fight? \n
+        • How will they fight? \n
+        • Who is the demon? \n
+        • Why is he or she a demon? \n
+        • Why will fighting the demon save the world? \n\n
 
-    As you can see, there are a lot of questions that can be asked for this one sentence and all of this revolves around being a highly skeptical person. In order to create your description, all you have to do is answer the questions that you ask. You do not have to answer them all right now, but if you can then it\'s better for you. These questions are a guide for you to follow. \n\n
-    Todd is a knight, a warrior of great skill and prowess, that lives in the kingdom of Kael. Todd became a knight after he accidentally rescued the prince with an unknown power that resided in him. The prince decided to make him a knight as a reward and Todd has since fought alongside the prince as a bodyguard. With his unknown power, Todd is the first and only magical knight in the land of Kael. Seeing the kingdom of Kael as a weak kingdom rich with untapped spoils the demon, Yiel, sees his opportunity to make his slave empire. As the only one who can wield both sword and magic, it is up to Todd to fight Yiel.
+        As you can see, there are a lot of questions that can be asked for this one sentence and all of this revolves
+        around being a highly skeptical person. In order to create your description, all you have to do is answer the
+        questions that you ask. You do not have to answer them all right now, but if you can then it\'s better for you.
+        These questions are a guide for you to follow. \n\n
+        Todd is a knight, a warrior of great skill and prowess, that lives in the kingdom of Kael. Todd became a knight
+        after he accidentally rescued the prince with an unknown power that resided in him. The prince decided to make
+        him a knight as a reward and Todd has since fought alongside the prince as a bodyguard. With his unknown power,
+        Todd is the first and only magical knight in the land of Kael. Seeing the kingdom of Kael as a weak kingdom rich
+        with untapped spoils the demon, Yiel, sees his opportunity to make his slave empire. As the only one who can
+        wield both sword and magic, it is up to Todd to fight Yiel.
     </string>
 
     <!-- Page Summary Page Text -->
     <string name="page_summary">Page Summary</string>
-    <string name="page_summmary_text">The page summary is given different names depending on the industry that it is used in but it is basically a bigger description of the description. The point of a Page Summary is to use it to break your book up into the different sections you want to write about. We\'ll get into breaking it down into chapters in the next section, but, first, let\'s use our questions to make a Page Summary.
-    Who? What? Where? Why? When? How?
-    Todd is a knight, a warrior of great skill and prowess, that lives in the kingdom of Kael. Todd became a knight after he accidentally rescued the prince with an unknown power that resided in him. The prince decided to make him a knight as a reward and Todd has since fought alongside the prince as a bodyguard. With his unknown power, Todd is the first and only magical knight in the land of Kael. Seeing the kingdom of Kael as a weak kingdom rich with untapped spoils the demon, Yiel, sees his opportunity to make his slave empire. As the only one who can wield both sword and magic, it is up to Todd to fight Yiel.
-    Who is the kingdom of Kael?
-    The kingdom of Kael is a small kingdom that has always had nice relationships with its people and its neighbors. Since Kael always helped out its neighbors and never tried to start any wars, the neighboring kingdoms left it alone. As a peaceful nation, the kingdom focused on intelligence and skill rather than brute force. This was something the other nations lacked and relied on Kael to supply.
-    What is the kingdom of Kael like for Todd?
-    Todd was a servant for a good portion of his life, but he was well educated due to the fact that he lived in the kingdom of Kael.
-    Where is the Kingdom of Kael?
-    As a harbor, the kingdom of Kael sat along the coastline surrounded by neighboring kingdoms that shared a continuous alliance with the kingdom of Kael.
-    Why does Todd live in the Kingdom of Kael?
-    Todd was born into a servant family that had long lived as the royal servants of the household.
-    Who is the prince?
-    Prince Lux was the youngest son in a line of five princes. While he is the last of the sons, he is often doted on as he is less brutish than his older brothers. As he passed his exams with flying colors, he was in line to be the next king as the kingdom of Kael had always decided their king based on academic aptitude rather than pure bloodlines.
-    Where was the prince rescued?
-    The prince was attempting to use a flying machine that he had tested on a smaller scale before, but one of his brothers had broken the angle of one of the wings. When the prince attempted to fly off the roof, he quickly found himself plummeting to the castle ground.
-    Why was it Todd that rescued the prince?
-    Todd had been cleaning the stables when he saw the prince falling to his death. Todd panicked at the sight and, without realizing it, teleported underneath the prince to change the direction of his fall so that the prince skidded over the ground.
-    What is Todd\'s relationship with the prince?
-    Before that, the prince and Todd had never crossed paths since the servants were never allowed to be in the same areas as the royal family.
-    Why is his relationship like that?
-    The separation allowed the royal family to function as a normal family without becoming corrupt by seeing their power over people. As a normal family should, they still prepared their own meals, clothing, and everything else a family normally did. The servants were there to take care of the castle.
-    Why does the prince choose to make Todd a bodyguard?
-    The only reward that Todd could be given as a servant was a promotion to a better paying position. Lux chose a bodyguard due to the fact that Lux wanted to repay Todd in other ways, such as teaching him battle tactics, with the hopes that the two of them would benefit from each other.
-    What does his unknown power do?
-    Todd\'s unknown power is that he can infinitely teleport wherever he wants to and in whatever position he wants to be teleported into.
-    Why does his unknown power make Todd the only magical knight?
-    The power does not cause him to lose any energy, which is why mages could not become knights as the two professions used up too much energy by themselves for one person to be able to do both.
-    Why does Yiel see the kingdom as weak?
-    Since the kingdom is primarily made up mages, there is no brute force that could challenge Yiel\'s army if he nullified their magic.
-    What does Yiel consider untapped spoils?
-    The kingdom of Kael is primarily made up of weak men and women, which were perfect for unresisted slave labor.
-    Why does Yiel want a slave empire?
-    Yiel\'s ultimate goal is to conquer the entire world so that he can live off their souls forever.
-    Why is Todd the only one who can fight Yiel?
-    Since Todd\'s magic cannot be nullified and it does not have a cost, Yiel cannot stop or catch Todd.
+    <string name="page_summmary_text">The page summary is given different names depending on the industry that it is
+        used in but it is basically a bigger description of the description. The point of a Page Summary is to use it to
+        break your book up into the different sections you want to write about. We\'ll get into breaking it down into
+        chapters in the next section, but, first, let\'s use our questions to make a Page Summary.
+        Who? What? Where? Why? When? How?
+        Todd is a knight, a warrior of great skill and prowess, that lives in the kingdom of Kael. Todd became a knight
+        after he accidentally rescued the prince with an unknown power that resided in him. The prince decided to make
+        him a knight as a reward and Todd has since fought alongside the prince as a bodyguard. With his unknown power,
+        Todd is the first and only magical knight in the land of Kael. Seeing the kingdom of Kael as a weak kingdom rich
+        with untapped spoils the demon, Yiel, sees his opportunity to make his slave empire. As the only one who can
+        wield both sword and magic, it is up to Todd to fight Yiel.
+        Who is the kingdom of Kael?
+        The kingdom of Kael is a small kingdom that has always had nice relationships with its people and its neighbors.
+        Since Kael always helped out its neighbors and never tried to start any wars, the neighboring kingdoms left it
+        alone. As a peaceful nation, the kingdom focused on intelligence and skill rather than brute force. This was
+        something the other nations lacked and relied on Kael to supply.
+        What is the kingdom of Kael like for Todd?
+        Todd was a servant for a good portion of his life, but he was well educated due to the fact that he lived in the
+        kingdom of Kael.
+        Where is the Kingdom of Kael?
+        As a harbor, the kingdom of Kael sat along the coastline surrounded by neighboring kingdoms that shared a
+        continuous alliance with the kingdom of Kael.
+        Why does Todd live in the Kingdom of Kael?
+        Todd was born into a servant family that had long lived as the royal servants of the household.
+        Who is the prince?
+        Prince Lux was the youngest son in a line of five princes. While he is the last of the sons, he is often doted
+        on as he is less brutish than his older brothers. As he passed his exams with flying colors, he was in line to
+        be the next king as the kingdom of Kael had always decided their king based on academic aptitude rather than
+        pure bloodlines.
+        Where was the prince rescued?
+        The prince was attempting to use a flying machine that he had tested on a smaller scale before, but one of his
+        brothers had broken the angle of one of the wings. When the prince attempted to fly off the roof, he quickly
+        found himself plummeting to the castle ground.
+        Why was it Todd that rescued the prince?
+        Todd had been cleaning the stables when he saw the prince falling to his death. Todd panicked at the sight and,
+        without realizing it, teleported underneath the prince to change the direction of his fall so that the prince
+        skidded over the ground.
+        What is Todd\'s relationship with the prince?
+        Before that, the prince and Todd had never crossed paths since the servants were never allowed to be in the same
+        areas as the royal family.
+        Why is his relationship like that?
+        The separation allowed the royal family to function as a normal family without becoming corrupt by seeing their
+        power over people. As a normal family should, they still prepared their own meals, clothing, and everything else
+        a family normally did. The servants were there to take care of the castle.
+        Why does the prince choose to make Todd a bodyguard?
+        The only reward that Todd could be given as a servant was a promotion to a better paying position. Lux chose a
+        bodyguard due to the fact that Lux wanted to repay Todd in other ways, such as teaching him battle tactics, with
+        the hopes that the two of them would benefit from each other.
+        What does his unknown power do?
+        Todd\'s unknown power is that he can infinitely teleport wherever he wants to and in whatever position he wants
+        to be teleported into.
+        Why does his unknown power make Todd the only magical knight?
+        The power does not cause him to lose any energy, which is why mages could not become knights as the two
+        professions used up too much energy by themselves for one person to be able to do both.
+        Why does Yiel see the kingdom as weak?
+        Since the kingdom is primarily made up mages, there is no brute force that could challenge Yiel\'s army if he
+        nullified their magic.
+        What does Yiel consider untapped spoils?
+        The kingdom of Kael is primarily made up of weak men and women, which were perfect for unresisted slave labor.
+        Why does Yiel want a slave empire?
+        Yiel\'s ultimate goal is to conquer the entire world so that he can live off their souls forever.
+        Why is Todd the only one who can fight Yiel?
+        Since Todd\'s magic cannot be nullified and it does not have a cost, Yiel cannot stop or catch Todd.
 
-    Now that we have answered the questions, we can put our answers into the description appropriately to get our Page Summary.
-    Todd is a knight, a warrior of great skill and prowess, that lives in the kingdom of Kael. The kingdom of Kael is a small kingdom that has always had nice relationships with its people and its neighbors. Since Kael always helped out its neighbors and never tried to start any wars, the neighboring kingdoms left it alone. As a peaceful nation, the kingdom focused on intelligence and skill rather than brute force. This was something the other nations lacked and relied on Kael to supply. Todd was a servant for a good portion of his life, but he was well educated due to the fact that he lived in the kingdom of Kael. As a harbor, the kingdom of Kael sat along the coastline surrounded by neighboring kingdoms that shared a continuous alliance with the kingdom of Kael. Todd was born into a servant family that had long lived as the royal servants of the household. Todd became a knight after he accidentally rescued the prince with an unknown power that resided in him. Prince Lux was the youngest son in a line of five princes. While he is the last of the sons, he is often doted on as he is less brutish than his older brothers. As he passed his exams with flying colors, he was in line to be the next king as the kingdom of Kael had always decided their king based on academic aptitude rather than pure bloodlines. The prince was attempting to use a flying machine that he had tested on a smaller scale before, but one of his brothers had broken the angle of one of the wings. When the prince attempted to fly off the roof, he quickly found himself plummeting to the castle ground. Todd had been cleaning the stables when he saw the prince falling to his death. Todd panicked at the sight and, without realizing it, teleported underneath the prince to change the direction of his fall so that the prince skidded over the ground. Before that, the prince and Todd had never crossed paths since the servants were never allowed to be in the same areas as the royal family. The separation allowed the royal family to function as a normal family without becoming corrupt by seeing their power over people. As a normal family should, they still prepared their own meals, clothing, and everything else a family normally did. The servants were there to take care of the castle. The prince decided to make him a knight as a reward and Todd has since fought alongside the prince as a bodyguard. The only reward that Todd could be given as a servant was a promotion to a better paying position. Lux chose a bodyguard due to the fact that Lux wanted to repay Todd in other ways, such as teaching him battle tactics, with the hopes that the two of them would benefit from each other. With his unknown power, Todd is the first and only magical knight in the land of Kael. Todd\'s unknown power is that he can infinitely teleport wherever he wants to and in whatever position he wants to be teleported into. The power does not cause him to lose any energy, which is why mages could not become knights as the two professions used up too much energy by themselves for one person to be able to do both. Seeing the kingdom of Kael as a weak kingdom rich with untapped spoils the demon, Yiel, sees his opportunity to make his slave empire. Since the kingdom is primarily made up mages, there is no brute force that could challenge Yiel\'s army if he nullified their magic. The kingdom of Kael is primarily made up of weak men and women, which were perfect for unresisted slave labor. Yiel\'s ultimate goal is to conquer the entire world so that he can live off their souls forever. Since Todd\'s magic cannot be nullified and it does not have a cost, Yiel cannot stop or catch Todd. As the only one who can wield both sword and magic, it is up to Todd to fight Yiel.
+        Now that we have answered the questions, we can put our answers into the description appropriately to get our
+        Page Summary.
+        Todd is a knight, a warrior of great skill and prowess, that lives in the kingdom of Kael. The kingdom of Kael
+        is a small kingdom that has always had nice relationships with its people and its neighbors. Since Kael always
+        helped out its neighbors and never tried to start any wars, the neighboring kingdoms left it alone. As a
+        peaceful nation, the kingdom focused on intelligence and skill rather than brute force. This was something the
+        other nations lacked and relied on Kael to supply. Todd was a servant for a good portion of his life, but he was
+        well educated due to the fact that he lived in the kingdom of Kael. As a harbor, the kingdom of Kael sat along
+        the coastline surrounded by neighboring kingdoms that shared a continuous alliance with the kingdom of Kael.
+        Todd was born into a servant family that had long lived as the royal servants of the household. Todd became a
+        knight after he accidentally rescued the prince with an unknown power that resided in him. Prince Lux was the
+        youngest son in a line of five princes. While he is the last of the sons, he is often doted on as he is less
+        brutish than his older brothers. As he passed his exams with flying colors, he was in line to be the next king
+        as the kingdom of Kael had always decided their king based on academic aptitude rather than pure bloodlines. The
+        prince was attempting to use a flying machine that he had tested on a smaller scale before, but one of his
+        brothers had broken the angle of one of the wings. When the prince attempted to fly off the roof, he quickly
+        found himself plummeting to the castle ground. Todd had been cleaning the stables when he saw the prince falling
+        to his death. Todd panicked at the sight and, without realizing it, teleported underneath the prince to change
+        the direction of his fall so that the prince skidded over the ground. Before that, the prince and Todd had never
+        crossed paths since the servants were never allowed to be in the same areas as the royal family. The separation
+        allowed the royal family to function as a normal family without becoming corrupt by seeing their power over
+        people. As a normal family should, they still prepared their own meals, clothing, and everything else a family
+        normally did. The servants were there to take care of the castle. The prince decided to make him a knight as a
+        reward and Todd has since fought alongside the prince as a bodyguard. The only reward that Todd could be given
+        as a servant was a promotion to a better paying position. Lux chose a bodyguard due to the fact that Lux wanted
+        to repay Todd in other ways, such as teaching him battle tactics, with the hopes that the two of them would
+        benefit from each other. With his unknown power, Todd is the first and only magical knight in the land of Kael.
+        Todd\'s unknown power is that he can infinitely teleport wherever he wants to and in whatever position he wants
+        to be teleported into. The power does not cause him to lose any energy, which is why mages could not become
+        knights as the two professions used up too much energy by themselves for one person to be able to do both.
+        Seeing the kingdom of Kael as a weak kingdom rich with untapped spoils the demon, Yiel, sees his opportunity to
+        make his slave empire. Since the kingdom is primarily made up mages, there is no brute force that could
+        challenge Yiel\'s army if he nullified their magic. The kingdom of Kael is primarily made up of weak men and
+        women, which were perfect for unresisted slave labor. Yiel\'s ultimate goal is to conquer the entire world so
+        that he can live off their souls forever. Since Todd\'s magic cannot be nullified and it does not have a cost,
+        Yiel cannot stop or catch Todd. As the only one who can wield both sword and magic, it is up to Todd to fight
+        Yiel.
     </string>
 
     <!-- Chapter Summaries Page Text -->
     <string name="chapter_summaries">Chapter Summaries</string>
-    <string name="chapter_summaries_text">Now that we have a Page Summary, we can then break this down into Chapters, which can also be called Chapter Summaries. These will be the descriptions of each Chapter in your book. Now, since I don\'t feel like creating as book within a book, we\'ll only work with one Chapter (Chapter 1). To recognize what can make a Chapter, you need to look for three things. A Start or Continuation, Substance, and an End or Continuation.
-    Start
-    A start usually begins a new type of subject, such as switching from talking in a tavern to being at home. The two are not directly connected and can be started separately.
-    Substance
-    Substance is a personal choice, but it is a measurement done by yourself to determine how much starting material you need in order to flesh out the chapter. This can be one to an endless amount of sentences given an endless page summary.
-    End
-    The end is either the end of the book, the end of a subject, or the end of a twist. The end of a subject means that the actions have completely been contained within the previous chapter. The end of a twist means taking the subject, ending it in that chapter using an unexpected situation, and then continuing it into the next chapter so that you can explain it there.
-    A Continuation
-    A continuation means you are going to carry one subject you are talking about over to the next Chapter. Preferably, don\'t do this when you think you\'ve run out of room in a Chapter as it will often come across as sloppy. Instead, you should leave off with a false end, such as the character goes to sleep or goes off to get something.
-    Now that we know that, we can choose our first chapter.
-    Todd is a knight, a warrior of great skill and prowess, that lives in the kingdom of Kael. The kingdom of Kael is a small kingdom that has always had nice relationships with its people and its neighbors. Since Kael always helped out its neighbors and never tried to start any wars, the neighboring kingdoms left it alone. As a peaceful nation, the kingdom focused on intelligence and skill rather than brute force. This was something the other nations lacked and relied on Kael to supply. Todd was a servant for a good portion of his life, but he was well educated due to the fact that he lived in the kingdom of Kael. As a harbor, the kingdom of Kael sat along the coastline surrounded by neighboring kingdoms that shared a continuous alliance with the kingdom of Kael. Todd was born into a servant family that had long lived as the royal servants of the household. Todd became a knight after he accidentally rescued the prince with an unknown power that resided in him. Prince Lux was the youngest son in a line of five princes. While he is the last of the sons, he is often doted on as he is less brutish than his older brothers. As he passed his exams with flying colors, he was in line to be the next king as the kingdom of Kael had always decided their king based on academic aptitude rather than pure bloodlines. The prince was attempting to use a flying machine that he had tested on a smaller scale before, but one of his brothers had broken the angle of one of the wings. When the prince attempted to fly off the roof, he quickly found himself plummeting to the castle ground. Todd had been cleaning the stables when he saw the prince falling to his death. Todd panicked at the sight and, without realizing it, teleported underneath the prince to change the direction of his fall so that the prince skidded over the ground.
-    Oh, wait a minute. That\'s a bit long for a description and that\'s because there\'s a lot of stuff that doesn\'t need to be there. If something is a fact and not a substance, we refer to them as Plot Constants as in they are parts of the Plot that have to deal with the story, but don\'t ever actually change. Now we can chop of the Plot Constants and extract what we need.
-    The prince was attempting to use a flying machine that he had tested on a smaller scale before, but one of his brothers had broken the angle of one of the wings. When the prince attempted to fly off the roof, he quickly found himself plummeting to the castle ground. Todd had been cleaning the stables when he saw the prince falling to his death. Todd panicked at the sight and, without realizing it, teleported underneath the prince to change the direction of his fall so that the prince skidded over the ground.
-    However, we\'re still not done here because while we do have a substance we could split this up into two chapters. To determine how many chapters you should have, we should talk about word count and then we\'ll come back to break this down.
+    <string name="chapter_summaries_text">Now that we have a Page Summary, we can then break this down into Chapters,
+        which can also be called Chapter Summaries. These will be the descriptions of each Chapter in your book. Now,
+        since I don\'t feel like creating as book within a book, we\'ll only work with one Chapter (Chapter 1). To
+        recognize what can make a Chapter, you need to look for three things. A Start or Continuation, Substance, and an
+        End or Continuation.
+        Start
+        A start usually begins a new type of subject, such as switching from talking in a tavern to being at home. The
+        two are not directly connected and can be started separately.
+        Substance
+        Substance is a personal choice, but it is a measurement done by yourself to determine how much starting material
+        you need in order to flesh out the chapter. This can be one to an endless amount of sentences given an endless
+        page summary.
+        End
+        The end is either the end of the book, the end of a subject, or the end of a twist. The end of a subject means
+        that the actions have completely been contained within the previous chapter. The end of a twist means taking the
+        subject, ending it in that chapter using an unexpected situation, and then continuing it into the next chapter
+        so that you can explain it there.
+        A Continuation
+        A continuation means you are going to carry one subject you are talking about over to the next Chapter.
+        Preferably, don\'t do this when you think you\'ve run out of room in a Chapter as it will often come across as
+        sloppy. Instead, you should leave off with a false end, such as the character goes to sleep or goes off to get
+        something.
+        Now that we know that, we can choose our first chapter.
+        Todd is a knight, a warrior of great skill and prowess, that lives in the kingdom of Kael. The kingdom of Kael
+        is a small kingdom that has always had nice relationships with its people and its neighbors. Since Kael always
+        helped out its neighbors and never tried to start any wars, the neighboring kingdoms left it alone. As a
+        peaceful nation, the kingdom focused on intelligence and skill rather than brute force. This was something the
+        other nations lacked and relied on Kael to supply. Todd was a servant for a good portion of his life, but he was
+        well educated due to the fact that he lived in the kingdom of Kael. As a harbor, the kingdom of Kael sat along
+        the coastline surrounded by neighboring kingdoms that shared a continuous alliance with the kingdom of Kael.
+        Todd was born into a servant family that had long lived as the royal servants of the household. Todd became a
+        knight after he accidentally rescued the prince with an unknown power that resided in him. Prince Lux was the
+        youngest son in a line of five princes. While he is the last of the sons, he is often doted on as he is less
+        brutish than his older brothers. As he passed his exams with flying colors, he was in line to be the next king
+        as the kingdom of Kael had always decided their king based on academic aptitude rather than pure bloodlines. The
+        prince was attempting to use a flying machine that he had tested on a smaller scale before, but one of his
+        brothers had broken the angle of one of the wings. When the prince attempted to fly off the roof, he quickly
+        found himself plummeting to the castle ground. Todd had been cleaning the stables when he saw the prince falling
+        to his death. Todd panicked at the sight and, without realizing it, teleported underneath the prince to change
+        the direction of his fall so that the prince skidded over the ground.
+        Oh, wait a minute. That\'s a bit long for a description and that\'s because there\'s a lot of stuff that
+        doesn\'t need to be there. If something is a fact and not a substance, we refer to them as Plot Constants as in
+        they are parts of the Plot that have to deal with the story, but don\'t ever actually change. Now we can chop of
+        the Plot Constants and extract what we need.
+        The prince was attempting to use a flying machine that he had tested on a smaller scale before, but one of his
+        brothers had broken the angle of one of the wings. When the prince attempted to fly off the roof, he quickly
+        found himself plummeting to the castle ground. Todd had been cleaning the stables when he saw the prince falling
+        to his death. Todd panicked at the sight and, without realizing it, teleported underneath the prince to change
+        the direction of his fall so that the prince skidded over the ground.
+        However, we\'re still not done here because while we do have a substance we could split this up into two
+        chapters. To determine how many chapters you should have, we should talk about word count and then we\'ll come
+        back to break this down.
     </string>
 
     <!-- Word Count Page Text -->
     <string name="word_count">Word Count</string>
-    <string name="word_count_text">There are a lot of high and mighty, snooty and tooty fruity authors who hear the phrase "word count" and flip out. I\'ve heard things like "It lowers the quality", "You shouldn\'t limit yourself", and my favorite nonsensical no-proof claim "You can\'t quantify creativity". This is a topic that easily angers me because there is a difference between an Author and a Ghostwriter. An Author is usually out for the artistic win and only sees money as a side benefit. A Ghostwriter usually doesn\'t care what they are writing so long as they get paid. It\'s the difference between an artistic painter and a billboard painter. One does it for fun while the other has a job to do. Having said that, let\'s dive into how Word Count will determine how many chapters you can have. If you choose to write a Novelette, you need a minimum of around 3,000 words in order to say that you have a short story. Therefore, let\'s start The Breakdown
-    Word Count: 3,000
-    Then you break up each section into usable chapters.
-    The prince was attempting to use a flying machine that he had tested on a smaller scale before, but one of his brothers had broken the angle of one of the wings. When the prince attempted to fly off the roof, he quickly found himself plummeting to the castle ground.
-    Todd had been cleaning the stables when he saw the prince falling to his death. Todd panicked at the sight and, without realizing it, teleported underneath the prince to change the direction of his fall so that the prince skidded over the ground.
-    The prince decided to make him a knight as a reward and Todd has since fought alongside the prince as a bodyguard. The only reward that Todd could be given as a servant was a promotion to a better paying position.
-    Seeing the kingdom of Kael as a weak kingdom rich with untapped spoils the demon, Yiel, sees his opportunity to make his slave empire. Since the kingdom is primarily made up mages, there is no brute force that could challenge Yiel\'s army if he nullified their magic. The kingdom of Kael is primarily made up of weak men and women, which were perfect for unresisted slave labor.
-    Yiel\'s ultimate goal is to conquer the entire world so that he can live off their souls forever. Since Todd\'s magic cannot be nullified and it does not have a cost, Yiel cannot stop or catch Todd. As the only one who can wield both sword and magic, it is up to Todd to fight Yiel.
-    As we can see, out of that large Page Summary, there are a total of five usable chapters. Since this is a story of just 3,000 words, we can keep it at five chapters but if this were a 10,000 word book then we would need to make each section a continuation of the last or we risk having small chapters mixed in with behemoths. Therefore, for five chapters of 3,000 words that means the book must have at least 600 words per chapter. This is what a full breakdown would look like.
-    The Breakdown
-    Word Count: 3,000 words
-    Sections: 5
-    Word Count Per Chapter: 600 words
-    The prince was attempting to use a flying machine that he had tested on a smaller scale before, but one of his brothers had broken the angle of one of the wings. When the prince attempted to fly off the roof, he quickly found himself plummeting to the castle ground. 600
-    Todd had been cleaning the stables when he saw the prince falling to his death. Todd panicked at the sight and, without realizing it, teleported underneath the prince to change the direction of his fall so that the prince skidded over the ground. 600
-    The prince decided to make him a knight as a reward and Todd has since fought alongside the prince as a bodyguard. The only reward that Todd could be given as a servant was a promotion to a better paying position. 600
-    Seeing the kingdom of Kael as a weak kingdom rich with untapped spoils the demon, Yiel, sees his opportunity to make his slave empire. Since the kingdom is primarily made up mages, there is no brute force that could challenge Yiel\'s army if he nullified their magic. The kingdom of Kael is primarily made up of weak men and women, which were perfect for unresisted slave labor. 600
-    Yiel\'s ultimate goal is to conquer the entire world so that he can live off their souls forever. Since Todd\'s magic cannot be nullified and it does not have a cost, Yiel cannot stop or catch Todd. As the only one who can wield both sword and magic, it is up to Todd to fight Yiel. 600
-    Once you have this, you can then begin breaking the chapters down into paragraphs using the same method of asking questions and picking it apart. Once you have broken it down into paragraphs, all you have to do is answer the questions with your creativity.
+    <string name="word_count_text">There are a lot of high and mighty, snooty and tooty fruity authors who hear the
+        phrase "word count" and flip out. I\'ve heard things like "It lowers the quality", "You shouldn\'t limit
+        yourself", and my favorite nonsensical no-proof claim "You can\'t quantify creativity". This is a topic that
+        easily angers me because there is a difference between an Author and a Ghostwriter. An Author is usually out for
+        the artistic win and only sees money as a side benefit. A Ghostwriter usually doesn\'t care what they are
+        writing so long as they get paid. It\'s the difference between an artistic painter and a billboard painter. One
+        does it for fun while the other has a job to do. Having said that, let\'s dive into how Word Count will
+        determine how many chapters you can have. If you choose to write a Novelette, you need a minimum of around 3,000
+        words in order to say that you have a short story. Therefore, let\'s start The Breakdown
+        Word Count: 3,000
+        Then you break up each section into usable chapters.
+        The prince was attempting to use a flying machine that he had tested on a smaller scale before, but one of his
+        brothers had broken the angle of one of the wings. When the prince attempted to fly off the roof, he quickly
+        found himself plummeting to the castle ground.
+        Todd had been cleaning the stables when he saw the prince falling to his death. Todd panicked at the sight and,
+        without realizing it, teleported underneath the prince to change the direction of his fall so that the prince
+        skidded over the ground.
+        The prince decided to make him a knight as a reward and Todd has since fought alongside the prince as a
+        bodyguard. The only reward that Todd could be given as a servant was a promotion to a better paying position.
+        Seeing the kingdom of Kael as a weak kingdom rich with untapped spoils the demon, Yiel, sees his opportunity to
+        make his slave empire. Since the kingdom is primarily made up mages, there is no brute force that could
+        challenge Yiel\'s army if he nullified their magic. The kingdom of Kael is primarily made up of weak men and
+        women, which were perfect for unresisted slave labor.
+        Yiel\'s ultimate goal is to conquer the entire world so that he can live off their souls forever. Since Todd\'s
+        magic cannot be nullified and it does not have a cost, Yiel cannot stop or catch Todd. As the only one who can
+        wield both sword and magic, it is up to Todd to fight Yiel.
+        As we can see, out of that large Page Summary, there are a total of five usable chapters. Since this is a story
+        of just 3,000 words, we can keep it at five chapters but if this were a 10,000 word book then we would need to
+        make each section a continuation of the last or we risk having small chapters mixed in with behemoths.
+        Therefore, for five chapters of 3,000 words that means the book must have at least 600 words per chapter. This
+        is what a full breakdown would look like.
+        The Breakdown
+        Word Count: 3,000 words
+        Sections: 5
+        Word Count Per Chapter: 600 words
+        The prince was attempting to use a flying machine that he had tested on a smaller scale before, but one of his
+        brothers had broken the angle of one of the wings. When the prince attempted to fly off the roof, he quickly
+        found himself plummeting to the castle ground. 600
+        Todd had been cleaning the stables when he saw the prince falling to his death. Todd panicked at the sight and,
+        without realizing it, teleported underneath the prince to change the direction of his fall so that the prince
+        skidded over the ground. 600
+        The prince decided to make him a knight as a reward and Todd has since fought alongside the prince as a
+        bodyguard. The only reward that Todd could be given as a servant was a promotion to a better paying position.
+        600
+        Seeing the kingdom of Kael as a weak kingdom rich with untapped spoils the demon, Yiel, sees his opportunity to
+        make his slave empire. Since the kingdom is primarily made up mages, there is no brute force that could
+        challenge Yiel\'s army if he nullified their magic. The kingdom of Kael is primarily made up of weak men and
+        women, which were perfect for unresisted slave labor. 600
+        Yiel\'s ultimate goal is to conquer the entire world so that he can live off their souls forever. Since Todd\'s
+        magic cannot be nullified and it does not have a cost, Yiel cannot stop or catch Todd. As the only one who can
+        wield both sword and magic, it is up to Todd to fight Yiel. 600
+        Once you have this, you can then begin breaking the chapters down into paragraphs using the same method of
+        asking questions and picking it apart. Once you have broken it down into paragraphs, all you have to do is
+        answer the questions with your creativity.
     </string>
+    <string name="title_activity_idea">IdeaActivity</string>
+    <string name="title_activity_description">DescriptionActivity</string>
 </resources>
