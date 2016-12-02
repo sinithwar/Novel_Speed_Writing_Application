@@ -20,6 +20,7 @@ public class LandingPage extends AppCompatActivity {
         TextView description_activity = (TextView) findViewById(R.id.description_page);
         TextView idea_activity = (TextView) findViewById(R.id.the_idea);
         TextView page_summary_activity = (TextView) findViewById(R.id.page_summary);
+        TextView word_count_activity = (TextView) findViewById(R.id.word_count);
 
         // Setting up the onclick listener's to provide a responsive menu
         about_activity.setOnClickListener(new View.OnClickListener() {
@@ -58,6 +59,13 @@ public class LandingPage extends AppCompatActivity {
             public void onClick(View view) {
                 Intent page_sum_link = new Intent(LandingPage.this, PageSummaryActivity.class);
                 startActivity(page_sum_link);
+            }
+        });
+        word_count_activity.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent word_count_link = new Intent(LandingPage.this, WordCountActivity.class);
+                startActivity(word_count_link);
             }
         });
     }

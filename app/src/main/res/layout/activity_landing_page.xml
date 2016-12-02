@@ -78,6 +78,17 @@
                     android:layout_weight="1"
                     android:gravity="center"
                     android:textSize="20sp"/>
+
+            <TextView
+                    android:text="@string/word_count"
+                    android:background="@drawable/book"
+                    android:textColor="@android:color/white"
+                    android:id="@+id/word_count"
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:textSize="20sp"/>
         </LinearLayout>
 
     </ScrollView>

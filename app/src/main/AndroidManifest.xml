@@ -18,20 +18,19 @@
         <activity android:name=".AboutActivity">
         </activity>
         <activity
-                android:name=".IdeaActivity"
-                android:label="@string/title_activity_idea"
-                android:theme="@style/AppTheme.NoActionBar">
+                android:name=".IdeaActivity">
         </activity>
         <activity
-                android:name=".DescriptionActivity"
-                android:label="@string/title_activity_description"
-                android:theme="@style/AppTheme.NoActionBar">
+                android:name=".DescriptionActivity">
         </activity>
-        <activity android:name=".PageSummaryActivity">
+        <activity
+                android:name=".PageSummaryActivity">
         </activity>
-        <activity android:name=".ChapterSummariesActivity">
+        <activity
+                android:name=".ChapterSummariesActivity">
         </activity>
-        <activity android:name=".WordCountActivity">
+        <activity
+                android:name=".WordCountActivity">
         </activity>
     </application>
 
