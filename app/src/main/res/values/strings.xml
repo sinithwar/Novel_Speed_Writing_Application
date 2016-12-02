@@ -112,73 +112,73 @@
 
     <!-- Page Summary Page Text -->
     <string name="page_summary">Page Summary</string>
-    <string name="page_summmary_text">The page summary is given different names depending on the industry that it is
+    <string name="page_summmary_intro">The page summary is given different names depending on the industry that it is
         used in but it is basically a bigger description of the description. The point of a Page Summary is to use it to
         break your book up into the different sections you want to write about. We\'ll get into breaking it down into
-        chapters in the next section, but, first, let\'s use our questions to make a Page Summary.
-        Who? What? Where? Why? When? How?
-        Todd is a knight, a warrior of great skill and prowess, that lives in the kingdom of Kael. Todd became a knight
+        chapters in the next section, but, first, let\'s use our questions to make a Page Summary.</string>
+    <string name="page_summary_questions">Who? What? Where? Why? When? How?</string>
+        <string name="page_summary_setup">Todd is a knight, a warrior of great skill and prowess, that lives in the kingdom of Kael. Todd became a knight
         after he accidentally rescued the prince with an unknown power that resided in him. The prince decided to make
         him a knight as a reward and Todd has since fought alongside the prince as a bodyguard. With his unknown power,
         Todd is the first and only magical knight in the land of Kael. Seeing the kingdom of Kael as a weak kingdom rich
         with untapped spoils the demon, Yiel, sees his opportunity to make his slave empire. As the only one who can
-        wield both sword and magic, it is up to Todd to fight Yiel.
-        Who is the kingdom of Kael?
-        The kingdom of Kael is a small kingdom that has always had nice relationships with its people and its neighbors.
+        wield both sword and magic, it is up to Todd to fight Yiel.</string>
+        <string name="page_summary_q1">Who is the kingdom of Kael?</string>
+    <string name="page_summary_q1_answer">The kingdom of Kael is a small kingdom that has always had nice relationships with its people and its neighbors.
         Since Kael always helped out its neighbors and never tried to start any wars, the neighboring kingdoms left it
         alone. As a peaceful nation, the kingdom focused on intelligence and skill rather than brute force. This was
-        something the other nations lacked and relied on Kael to supply.
-        What is the kingdom of Kael like for Todd?
-        Todd was a servant for a good portion of his life, but he was well educated due to the fact that he lived in the
-        kingdom of Kael.
-        Where is the Kingdom of Kael?
-        As a harbor, the kingdom of Kael sat along the coastline surrounded by neighboring kingdoms that shared a
-        continuous alliance with the kingdom of Kael.
-        Why does Todd live in the Kingdom of Kael?
-        Todd was born into a servant family that had long lived as the royal servants of the household.
-        Who is the prince?
-        Prince Lux was the youngest son in a line of five princes. While he is the last of the sons, he is often doted
+        something the other nations lacked and relied on Kael to supply.</string>
+    <string name="page_summary_q2">What is the kingdom of Kael like for Todd?</string>
+    <string name="page_summary_q2_answer">Todd was a servant for a good portion of his life, but he was well educated due to the fact that he lived in the
+        kingdom of Kael.</string>
+    <string name="page_summary_q3">Where is the Kingdom of Kael?</string>
+    <string name="page_summary_q3_answer">As a harbor, the kingdom of Kael sat along the coastline surrounded by neighboring kingdoms that shared a
+        continuous alliance with the kingdom of Kael.</string>
+    <string name="page_summary_q4">Why does Todd live in the Kingdom of Kael?</string>
+    <string name="page_summary_q4_answer">Todd was born into a servant family that had long lived as the royal servants of the household.</string>
+    <string name="page_summary_q5">Who is the prince?</string>
+    <string name="page_summary_q5_answer">Prince Lux was the youngest son in a line of five princes. While he is the last of the sons, he is often doted
         on as he is less brutish than his older brothers. As he passed his exams with flying colors, he was in line to
         be the next king as the kingdom of Kael had always decided their king based on academic aptitude rather than
-        pure bloodlines.
-        Where was the prince rescued?
-        The prince was attempting to use a flying machine that he had tested on a smaller scale before, but one of his
+        pure bloodlines.</string>
+    <string name="page_summary_q6">Where was the prince rescued?</string>
+    <string name="page_summary_q6_answer">The prince was attempting to use a flying machine that he had tested on a smaller scale before, but one of his
         brothers had broken the angle of one of the wings. When the prince attempted to fly off the roof, he quickly
-        found himself plummeting to the castle ground.
-        Why was it Todd that rescued the prince?
-        Todd had been cleaning the stables when he saw the prince falling to his death. Todd panicked at the sight and,
+        found himself plummeting to the castle ground.</string>
+    <string name="page_summary_q7">Why was it Todd that rescued the prince?</string>
+    <string name="page_summary_q7_answer">Todd had been cleaning the stables when he saw the prince falling to his death. Todd panicked at the sight and,
         without realizing it, teleported underneath the prince to change the direction of his fall so that the prince
-        skidded over the ground.
-        What is Todd\'s relationship with the prince?
-        Before that, the prince and Todd had never crossed paths since the servants were never allowed to be in the same
-        areas as the royal family.
-        Why is his relationship like that?
-        The separation allowed the royal family to function as a normal family without becoming corrupt by seeing their
+        skidded over the ground.</string>
+    <string name="page_summary_q8">What is Todd\'s relationship with the prince?</string>
+    <string name="page_summary_q8_answer">Before that, the prince and Todd had never crossed paths since the servants were never allowed to be in the same
+        areas as the royal family.</string>
+    <string name="page_summary_q9">Why is his relationship like that?</string>
+    <string name="page_summary_q9_answer">The separation allowed the royal family to function as a normal family without becoming corrupt by seeing their
         power over people. As a normal family should, they still prepared their own meals, clothing, and everything else
-        a family normally did. The servants were there to take care of the castle.
-        Why does the prince choose to make Todd a bodyguard?
-        The only reward that Todd could be given as a servant was a promotion to a better paying position. Lux chose a
+        a family normally did. The servants were there to take care of the castle.</string>
+    <string name="page_summary_q10">Why does the prince choose to make Todd a bodyguard?</string>
+    <string name="page_summary_q10_answer">The only reward that Todd could be given as a servant was a promotion to a better paying position. Lux chose a
         bodyguard due to the fact that Lux wanted to repay Todd in other ways, such as teaching him battle tactics, with
-        the hopes that the two of them would benefit from each other.
-        What does his unknown power do?
-        Todd\'s unknown power is that he can infinitely teleport wherever he wants to and in whatever position he wants
-        to be teleported into.
-        Why does his unknown power make Todd the only magical knight?
-        The power does not cause him to lose any energy, which is why mages could not become knights as the two
-        professions used up too much energy by themselves for one person to be able to do both.
-        Why does Yiel see the kingdom as weak?
-        Since the kingdom is primarily made up mages, there is no brute force that could challenge Yiel\'s army if he
-        nullified their magic.
-        What does Yiel consider untapped spoils?
-        The kingdom of Kael is primarily made up of weak men and women, which were perfect for unresisted slave labor.
-        Why does Yiel want a slave empire?
-        Yiel\'s ultimate goal is to conquer the entire world so that he can live off their souls forever.
-        Why is Todd the only one who can fight Yiel?
-        Since Todd\'s magic cannot be nullified and it does not have a cost, Yiel cannot stop or catch Todd.
+        the hopes that the two of them would benefit from each other.</string>
+    <string name="page_summary_q11">What does his unknown power do?</string>
+    <string name="page_summary_q11_answer">Todd\'s unknown power is that he can infinitely teleport wherever he wants to and in whatever position he wants
+        to be teleported into.</string>
+    <string name="page_summary_q12">Why does his unknown power make Todd the only magical knight?</string>
+    <string name="page_summary_q12_answer">The power does not cause him to lose any energy, which is why mages could not become knights as the two
+        professions used up too much energy by themselves for one person to be able to do both.</string>
+    <string name="page_summary_q13">Why does Yiel see the kingdom as weak?</string>
+    <string name="page_summary_q13_answer">Since the kingdom is primarily made up mages, there is no brute force that could challenge Yiel\'s army if he
+        nullified their magic.</string>
+    <string name="page_summary_q14">What does Yiel consider untapped spoils?</string>
+    <string name="page_summary_q14_answer">The kingdom of Kael is primarily made up of weak men and women, which were perfect for unresisted slave labor.</string>
+    <string name="page_summary_q15">Why does Yiel want a slave empire?</string>
+    <string name="page_summary_q15_answer">Yiel\'s ultimate goal is to conquer the entire world so that he can live off their souls forever.</string>
+    <string name="page_summary_q16">Why is Todd the only one who can fight Yiel?</string>
+    <string name="page_summary_q16_answer">Since Todd\'s magic cannot be nullified and it does not have a cost, Yiel cannot stop or catch Todd.</string>
 
-        Now that we have answered the questions, we can put our answers into the description appropriately to get our
-        Page Summary.
-        Todd is a knight, a warrior of great skill and prowess, that lives in the kingdom of Kael. The kingdom of Kael
+    <string name="page_summary_q_end">Now that we have answered the questions, we can put our answers into the description appropriately to get our</string>
+    <string name="page_summary_result_title">Page Summary.</string>
+    <string name="page_summary_result">Todd is a knight, a warrior of great skill and prowess, that lives in the kingdom of Kael. The kingdom of Kael
         is a small kingdom that has always had nice relationships with its people and its neighbors. Since Kael always
         helped out its neighbors and never tried to start any wars, the neighboring kingdoms left it alone. As a
         peaceful nation, the kingdom focused on intelligence and skill rather than brute force. This was something the
@@ -212,8 +212,7 @@
         women, which were perfect for unresisted slave labor. Yiel\'s ultimate goal is to conquer the entire world so
         that he can live off their souls forever. Since Todd\'s magic cannot be nullified and it does not have a cost,
         Yiel cannot stop or catch Todd. As the only one who can wield both sword and magic, it is up to Todd to fight
-        Yiel.
-    </string>
+        Yiel.</string>
 
     <!-- Chapter Summaries Page Text -->
     <string name="chapter_summaries">Chapter Summaries</string>
