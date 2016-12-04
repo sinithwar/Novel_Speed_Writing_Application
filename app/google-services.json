@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "582762815031",
+    "firebase_url": "https://novel-speed-writing.firebaseio.com",
+    "project_id": "novel-speed-writing",
+    "storage_bucket": "novel-speed-writing.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:582762815031:android:3110496875ff1da0",
+        "android_client_info": {
+          "package_name": "novelspeedwriting.tommymertell"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "582762815031-1be87k6udm9j72dns6atcgtfhbrckng2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAW8IgXkPnFoJ9hLFCvU4AX14Ear9uOmXM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

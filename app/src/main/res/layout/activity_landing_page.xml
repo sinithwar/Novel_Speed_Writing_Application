@@ -2,6 +2,7 @@
 <LinearLayout
         xmlns:android="http://schemas.android.com/apk/res/android"
         xmlns:tools="http://schemas.android.com/tools"
+        xmlns:ads="http://schemas.android.com/apk/res-auto"
         tools:context="tommymertell.novelspeedwriting.LandingPage"
         android:layout_width="fill_parent"
         android:layout_height="fill_parent"
@@ -92,4 +93,10 @@
         </LinearLayout>
 
     </ScrollView>
+
+    <fragment android:layout_width="match_parent"
+              android:layout_height="0dp"
+              android:name="tommymertell.novelspeedwriting.AdFragment"
+              android:id="@+id/fragment"
+              android:layout_weight="1"/>
 </LinearLayout>
