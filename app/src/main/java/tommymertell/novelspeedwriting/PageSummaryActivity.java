@@ -18,7 +18,7 @@ public class PageSummaryActivity extends AppCompatActivity {
         back_view.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent back_link = new Intent(PageSummaryActivity.this, LandingPage.class);
+                Intent back_link = new Intent(PageSummaryActivity.this, TutorialsActivity.class);
                 startActivity(back_link);
             }
         });

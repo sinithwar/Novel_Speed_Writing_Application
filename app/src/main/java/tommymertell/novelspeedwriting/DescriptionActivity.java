@@ -21,7 +21,7 @@ public class DescriptionActivity extends AppCompatActivity {
         back_view.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent back_link = new Intent(DescriptionActivity.this, LandingPage.class);
+                Intent back_link = new Intent(DescriptionActivity.this, TutorialsActivity.class);
                 startActivity(back_link);
             }
         });

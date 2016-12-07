@@ -18,85 +18,65 @@
             android:layout_weight="1"
             android:gravity="center"
     />
-    <ScrollView
+    <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="0dp"
             android:layout_weight="3"
+            android:orientation="horizontal"
+            android:id="@+id/tutorials"
     >
         <LinearLayout
-                android:layout_width="match_parent"
-                android:layout_height="match_parent"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_height="150dp"
                 android:orientation="vertical"
-
         >
             <TextView
-                    android:text="@string/about_title"
-                    android:background="@drawable/book"
-                    android:textColor="@android:color/white"
-                    android:id="@+id/about_title"
-                    android:layout_width="match_parent"
+                    android:text="@string/tutorial_title"
+                    android:textSize="25sp"
+                    android:layout_marginLeft="50dp"
+                    android:layout_marginTop="50dp"
+                    android:layout_width="100dp"
                     android:layout_height="0dp"
                     android:layout_weight="1"
-                    android:gravity="center"
-                    android:textSize="20sp"/>
-            <TextView
-                    android:text="@string/the_idea"
-                    android:background="@drawable/book"
-                    android:textColor="@android:color/white"
-                    android:id="@+id/the_idea"
-                    android:layout_width="match_parent"
+                    android:textAlignment="center"/>
+            <ImageView
+                    android:layout_width="50dp"
                     android:layout_height="0dp"
                     android:layout_weight="1"
-                    android:gravity="center"
-                    android:textSize="20sp"/>
-            <TextView
-                    android:text="@string/description_page"
-                    android:background="@drawable/book"
-                    android:textColor="@android:color/white"
-                    android:id="@+id/description_page"
-                    android:layout_width="match_parent"
-                    android:layout_height="0dp"
-                    android:layout_weight="1"
-                    android:gravity="center"
-                    android:textSize="20sp"/>
-            <TextView
-                    android:text="@string/page_summary"
-                    android:background="@drawable/book"
-                    android:textColor="@android:color/white"
-                    android:id="@+id/page_summary"
-                    android:layout_width="match_parent"
-                    android:layout_height="0dp"
-                    android:layout_weight="1"
-                    android:gravity="center"
-                    android:textSize="20sp"/>
-            <TextView
-                    android:text="@string/chapter_summaries"
-                    android:background="@drawable/book"
-                    android:textColor="@android:color/white"
-                    android:id="@+id/chapter_summaries"
-                    android:layout_width="match_parent"
-                    android:layout_height="0dp"
-                    android:layout_weight="1"
-                    android:gravity="center"
-                    android:textSize="20sp"/>
-
-            <TextView
-                    android:text="@string/word_count"
-                    android:background="@drawable/book"
-                    android:textColor="@android:color/white"
-                    android:id="@+id/word_count"
-                    android:layout_width="match_parent"
-                    android:layout_height="0dp"
-                    android:layout_weight="1"
-                    android:gravity="center"
-                    android:textSize="20sp"/>
+                    android:layout_marginLeft="75dp"
+                    android:src="@drawable/reading_book"
+                    android:textAlignment="center"/>
         </LinearLayout>
-
-    </ScrollView>
+        <LinearLayout
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_height="150dp"
+                android:orientation="vertical"
+                android:id="@+id/news"
+        >
+            <TextView
+                    android:text="@string/news"
+                    android:textSize="25sp"
+                    android:layout_marginLeft="50dp"
+                    android:layout_marginTop="50dp"
+                    android:layout_width="100dp"
+                    android:layout_height="0dp"
+                    android:layout_weight="1"
+                    android:textAlignment="center"/>
+            <ImageView
+                    android:layout_width="50dp"
+                    android:layout_height="0dp"
+                    android:layout_weight="1"
+                    android:layout_marginLeft="75dp"
+                    android:src="@drawable/news"
+                    android:textAlignment="center"/>
+        </LinearLayout>
+    </LinearLayout>
 
     <fragment android:layout_width="match_parent"
               android:layout_height="wrap_content"
               android:name="tommymertell.novelspeedwriting.AdFragment"
               android:id="@+id/fragment"
-              />
+              tools:layout="@layout/ad_fragment"/>
 </LinearLayout>

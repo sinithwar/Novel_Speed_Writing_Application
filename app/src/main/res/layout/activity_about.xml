@@ -49,5 +49,5 @@
               android:layout_height="wrap_content"
               android:name="tommymertell.novelspeedwriting.AdFragment"
               android:id="@+id/fragment"
-    />
+              tools:layout="@layout/ad_fragment"/>
 </LinearLayout>
