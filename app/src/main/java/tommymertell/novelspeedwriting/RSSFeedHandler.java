@@ -2,8 +2,10 @@ package tommymertell.novelspeedwriting;
 
 import android.util.Log;
 import org.xmlpull.v1.XmlPullParser;
+import org.xmlpull.v1.XmlPullParserException;
 import org.xmlpull.v1.XmlPullParserFactory;
 
+import java.io.IOException;
 import java.io.InputStream;
 import java.net.HttpURLConnection;
 import java.net.URL;
@@ -18,7 +20,7 @@ public class RSSFeedHandler {
     public volatile boolean parsingComplete = true;
     private String huffington_entry = "entry";
 
-    public void RSSFeedHandler(){
+    public void RSSFeedHandler() {
 
     }
 
@@ -29,43 +31,50 @@ public class RSSFeedHandler {
     public String getHuffington_entry() {
         return huffington_entry;
     }
-
-    public void parseAndStoreXML(XmlPullParser parser){
+    // As of right now, this program attempts to parse and serve the data to the system log via String
+    public void parseAndStoreXML(XmlPullParser parser) throws XmlPullParserException, IOException{
         int event;
         String text = null;
-        try{
-            event = parser.getEventType();
-            // TODO: Refine XML PARSER
-            int xml_count = 0;
-            while(event != XmlPullParser.END_DOCUMENT){
-                String name = parser.getName();
+        try {
+            try {
+                event = parser.getEventType();
+                // TODO: Refine XML PARSER
+                int xml_count = 0;
+                while (event != XmlPullParser.END_DOCUMENT) {
+                    String name = parser.getName();
 
-                switch(event) {
-                    case XmlPullParser.START_TAG:
-                        break;
-
-                    case XmlPullParser.TEXT:
-                        text = parser.getText();
-                        Log.v("Result", "" + text + "");
-                        break;
-
-                    default:
-                        Log.v("Error", "Failed to load");
-                        break;
+                    while (event != XmlPullParser.END_DOCUMENT) {
+                        if (xml_count == 20) {
+                            break;
+                        }
+                        xml_count++;
+                        if (event == XmlPullParser.START_DOCUMENT) {
+                            System.out.println("Start document");
+                        } else if (event == XmlPullParser.START_TAG) {
+                            System.out.println("Start tag " + parser.getName() + parser.getText());
+                        } else if (event == XmlPullParser.END_TAG) {
+                            System.out.println("End tag " + parser.getName() + parser.getText());
+                        } else if (event == XmlPullParser.TEXT) {
+                            System.out.println("Text " + parser.getName() + parser.getText());
+                        }
+                        try {
+                            event = parser.next();
+                        } catch (XmlPullParserException e) {
+                            e.printStackTrace();
+                        }
+                    }
                 }
-                if(xml_count == 20){
-                    break;
-                }
-                xml_count++;
-                event = parser.next();
+            } catch (XmlPullParserException e) {
+                e.printStackTrace();
             }
 
-        }catch (Exception e){
-            e.printStackTrace();
+
+        } catch (Exception e) {
+
         }
     }
 
-    public void getXML(){
+    public void getXML() {
         Thread xml_thread = new Thread(new Runnable() {
             @Override
             public void run() {
@@ -89,7 +98,7 @@ public class RSSFeedHandler {
                     parseAndStoreXML(parser);
                     stream.close();
 
-                }catch (Exception e){
+                } catch (Exception e) {
 
                 }
             }
@@ -98,4 +107,4 @@ public class RSSFeedHandler {
     }
 
 
-    }
+}
